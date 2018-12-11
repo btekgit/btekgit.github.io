@@ -72,3 +72,32 @@ _Thesis: Adaptive Filtering of Speckle Noise in Ultrasound Images_
 1. A telepresence robot for ultra-low power Bluetooth (BLE) nodes. 2014-2016. Role: director. Budget: 19700TL, funded by Işık University Past funded research projects
 1. Autonomous model car racing. 2010-2011. Role: researcher. Budget:15000TL, funded by Işık University
 1. Autonomous quadcopter. 2010-2013. Role: director. Budget: 15935TL, funded by Işık University
+
+### Teaching
+
+ * Software: Introduction to Programming with (C & Java), Object Oriented Programming (Java), Computer Vision, Scratch Programming Workshop
+ * Hardware: Computer Organization and Architecture, Microprocessors
+ * Graduate: Computer Vision, Pattern Recognition
+
+### Computer skills
+
+ * Programming: C/C++, Matlab, Java, Python, Assembly (AVR, MIPS)
+ 
+ * APIs-LIBs: OpenCV, Arduino, MEX, STL, Android
+
+
+ ### Languages
+
+ Turkish (Native), English (Fluent), Spanish (Elementary+)
+
+
+ ### Professional Memberships
+
+ ACM, IEEE
+
+
+ ### Hobbies & Interests
+
+ Cycling, Playing Percussion & Music, Playing Chess & Go, Reading, Learning
+
+
