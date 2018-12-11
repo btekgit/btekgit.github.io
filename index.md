@@ -1,13 +1,14 @@
-# F. Boray Tek's resume and research interests
+# Resume and Research interests
 
 ## Education
 * 2003–2007 **PhD**, Department of Electronic Systems, University of Westminster, London, UK.
- Thesis: “Computerised Diagnosis of Malaria”
+ _Thesis: Computerised Diagnosis of Malaria_
 
 * 2000–2002 **MSc**, Department of Electrical and Electronics Engineering, Robotics Section, Middle East Technical University,Ankara,Turkey.
- Thesis: “Face Detection Using Learning Networks
+_Thesis: “Face Detection Using Learning Networks_
 
-* 1996–2000 **BSc**, Department of Electrical and Electronics Engineering, Baskent University, Ankara,Turkey. Thesis: Adaptive Filtering of Speckle Noise in Ultrasound Images
+* 1996–2000 **BSc**, Department of Electrical and Electronics Engineering, Baskent University, Ankara,Turkey. 
+_Thesis: Adaptive Filtering of Speckle Noise in Ultrasound Images_
 
 
 ## Work Experience
@@ -19,8 +20,7 @@
  * Jun 2013 Oct 2013 Visiting Researcher, Heidelberg Collaboratory for Image
  Processing, Heidelberg, Germany.
 
- * Apr 2008 May 2009 Scientific Research Engineer, R&D Department, Medic-
- Sight PLC, London, UK.
+ * Apr 2008 May 2009 Scientific Research Engineer, R&D Department, MedicSight PLC, London, UK.
 
  * Mar 2007 Mar 2008 Postdoctoral Research Fellow, Applied DSP & VLSI Re-
  search Group, Department of Electronic Systems, University
