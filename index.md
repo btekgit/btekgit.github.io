@@ -86,18 +86,14 @@ _Thesis: Adaptive Filtering of Speckle Noise in Ultrasound Images_
  * APIs-LIBs: OpenCV, Arduino, MEX, STL, Android
 
 
- ### Languages
+### Languages
 
  Turkish (Native), English (Fluent), Spanish (Elementary+)
 
-
- ### Professional Memberships
+### Professional Memberships
 
  ACM (past), IEEE (past)
 
-
- ### Hobbies & Interests
+### Hobbies & Interests
 
  Cycling, Playing Percussion & Music, Playing Chess & Go, Reading, Learning
-
-
