@@ -1,4 +1,4 @@
-## Resume and Research interests
+### Bio
 
 ### Education
 * 2003–2007 **PhD**, Department of Electronic Systems, University of Westminster, London, UK.
