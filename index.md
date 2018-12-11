@@ -93,7 +93,7 @@ _Thesis: Adaptive Filtering of Speckle Noise in Ultrasound Images_
 
  ### Professional Memberships
 
- ACM, IEEE
+ ACM (past), IEEE (past)
 
 
  ### Hobbies & Interests
