@@ -20,12 +20,12 @@ costs more than the original failure: 17.22%.
 ## What is the problem?
 
 Multiplying every pixel of an image by one scalar $\alpha$ is about the most
-boring transformation available. It preserves every edge, every spatial
+trivial transformation available. It preserves every edge, every spatial
 relationship, every ratio between pixels. For $\alpha > 0$ it is exactly
 invertible — divide and you are back where you started. A human looking at an
 MNIST digit at 20% signal reads the same digit.
 
-Classifiers do not. Trained on unmodified images, they lose accuracy steadily as
+But, common image classifiers won't. Trained on clear images, they lose accuracy steadily as
 $\alpha$ falls, and at $\alpha=0.2$ the loss ranges from mild to catastrophic
 depending on the model. This shows up in practice as sensor gain changes,
 illumination shifts, and preprocessing differences, but I am not modeling any of
@@ -53,7 +53,6 @@ quantization, and saturation, none of which appear here.
 
 ## What is already in the literature?
 
-Neither intervention I test is new, and I am claiming neither.
 
 Replacing stored BatchNorm statistics with statistics recomputed on unlabeled
 target data, weights frozen, is **AdaBN** [@li2017adabn]. Schneider et al.
@@ -67,8 +66,7 @@ activations, so a large recovery is exactly what this literature predicts.
 
 The training-side intervention is equally standard: multiplying nonnegative
 images by a factor below one is ordinary multiplicative brightness augmentation.
-My sampling range and clean/scaled mixing ratio specify a particular protocol;
-they are not a new operator.
+The sampling range and clean/scaled mixing ratio specify a particular protocol.
 
 Why normalization is the right place to look: BatchNorm estimates running means
 and variances during training and reuses them at inference [@ioffe2015batchnorm],
@@ -77,7 +75,6 @@ into the model. GroupNorm and LayerNorm compute statistics from the current
 example [@wu2018groupnorm; @ba2016layernorm], which removes that assumption at
 the cost of discarding absolute scale.
 
-So what is left to add is the controlled measurement.
 
 ## The failure is silent
 
@@ -115,7 +112,7 @@ threshold *couldn't* work.)
 
 ## How general is it?
 
-I evaluated 115 models trained without any exposure to scaled images, across
+I evaluated models trained without any exposure to scaled images, across
 four dataset–architecture families.
 
 | Family | $n$ | $A(1.0)$ | Drop (pp) [95% CI] | $\bar\rho$ |
@@ -127,7 +124,7 @@ four dataset–architecture families.
 
 : Response by family. Drop is $A(1.0) - A(0.2)$ in percentage points; $\bar\rho$ is the mean within-model Spearman correlation between $\alpha$ and accuracy. {#tbl-family}
 
-Two things. The response is **nearly monotonic everywhere** — every family mean
+The response is **nearly monotonic everywhere** — every family mean
 Spearman correlation is above 0.98. And the **magnitude varies by about a factor
 of seven**, from 9.32 pp to 63.13 pp, with all four intervals mutually disjoint.
 

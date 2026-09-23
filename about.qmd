@@ -7,10 +7,11 @@ Artificial Intelligence and Data Engineering at Istanbul Technical University.
 I work on artificial neural networks, (bio)medical image analysis, computer
 vision, and industrial AI applications.
 
-Before ITU I was at Işık University, with earlier positions at the Heidelberg
+Before ITU I was at Işık University, Department of Computer Engineering, 
+with earlier positions at the Heidelberg
 Collaboratory for Image Processing, MedicSight PLC in London, the University of
-Westminster, and TÜBİTAK-BİLTEN. My PhD, on computerised diagnosis of malaria,
-is from the University of Westminster.
+Westminster, and TÜBİTAK-BİLTEN (Now Space Technologies Inst.). 
+My PhD, on computerised diagnosis of malaria, is from the University of Westminster.
 
 The longer version is on the [CV page](cv.qmd).
 
