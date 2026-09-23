@@ -19,7 +19,7 @@ Istanbul Technical University, Ayazağa, Sarıyer, Istanbul
 
 | Period | Role |
 |---|---|
-| Since 08/2022 | Associate Professor and Vice Chair, Dept. of Artificial Intelligence and Data Engineering, Istanbul Technical University |
+| Since 08/2022 | Associate Professor (and Vice Chair from 2023-2025), Dept. of Artificial Intelligence and Data Engineering, Istanbul Technical University |
 | 2009 – 2022 | Assistant Professor, Dept. of Computer Engineering, Işık University, Istanbul |
 | 2013 | Visiting Researcher, Heidelberg Collaboratory for Image Processing, Heidelberg, Germany |
 | 2008 – 2009 | Scientific Research Engineer, R&D, MedicSight PLC, London, UK |
@@ -46,7 +46,8 @@ computer vision, and computing education.
 
 | Period | Project |
 |---|---|
-| 2023 – ongoing | **PI** — Optical coherence tomography (and angiography) scans and deep-learning-based Alzheimer's disease diagnosis. TÜBİTAK-ARDEB, 1M TL |
+| 2024 – Ongoing | **WP Lead, ITU Coordinator** — AI EDIH Türkiye: AI-Enabled Manufacturing for Twin Transition, (DIGITAL-2023-EDIH-04-ASSOCIATED). TÜBİTAK-ARDEB, ~2M Euros |
+| 2023 – 2026 | **PI** — Optical coherence tomography (and angiography) scans and deep-learning-based Alzheimer's disease diagnosis. TÜBİTAK-ARDEB, 1M TL |
 | 2018 – 2022 | **PI** — Artificial focusing neuron model and method to learn topology in neural networks. TÜBİTAK-ARDEB, 280K TL |
 | 2014 – 2017 | **PI** — Omni-directional tele-presence robot. Işık University internal grant, ~50K TL |
 | 2013 | TÜBİTAK-BİDEP visiting research grant, HCI Heidelberg |
@@ -60,8 +61,9 @@ identification and face detection (TÜBİTAK-BİLTEN).
 ## Teaching
 
 Introduction to Data Science and Engineering · Optimization for Data Science ·
-Artificial Intelligence · Neural Networks and Deep Learning · Computer Vision ·
-Pattern Recognition · Computer Organization and Architecture · Microprocessors
+Neural Networks and Deep Learning · Computer Vision · Pattern Recognition · 
+Computer Organization and Architecture · Microprocessors
+Artificial Intelligence · 
 
 ## Selected publications
 
@@ -73,6 +75,11 @@ The complete and current list is on
 - **F. B. Tek**, İ. Çam, D. Karlı, Adaptive convolution kernel for artificial
   neural networks. *Journal of Visual Communication and Image Representation*,
   75, 2021.
+- Özçelik, Ş.T., **Tek, F.B**. Adaptive locally connected recurrent unit (ALCRU). 
+*Int. J. Mach. Learn. & Cyber.* 16, 6903–6914, 2025.
+- Nazlı, M.S., Turkan, Y., **Tek, F.B**, Toslak, D., Bulut M., Arpaci F., Ocal M.C,
+Retinal Disease Diagnosis in OCT Scans Using a Foundational Model. ICPR 2024 International Workshops and Challenges. LNCS,  15618. 
+Springer, 2025.
 - **F. B. Tek**, F. Cannavò, G. Nunnari, I. Kale, Robust localization and
   identification of African clawed frogs in digital images. *Ecological
   Informatics*, 23, 3–12, 2014.
@@ -81,9 +88,6 @@ The complete and current list is on
 - **F. B. Tek**, A. G. Dempster, İ. Kale, Parasite detection and identification
   for automated thin blood film malaria diagnosis. *Computer Vision and Image
   Understanding*, 114(1), 21–32, 2010.
-- Y. Turkan, **F. B. Tek**, Using adaptive locally connected layer in
-  attention-based deep neural network for speech command recognition. *SIU
-  2020*.
 - D. Kırcalı, **F. B. Tek**, Ground plane detection using an RGB-D sensor.
   *Information Sciences and Systems*, 2014.
 

@@ -2,16 +2,14 @@
 title: "About"
 ---
 
-**Faik Boray Tek** is an Associate Professor and Vice Chair in the Department of
+I am an Associate Professor in the Department of
 Artificial Intelligence and Data Engineering at Istanbul Technical University.
-He works on artificial neural networks, (bio)medical image analysis, computer
-vision, and computing education — recently on adaptive neuron and convolution
-kernel models, and on deep-learning-based diagnosis from optical coherence
-tomography.
+I work on artificial neural networks, (bio)medical image analysis, computer
+vision, and industrial AI applications.
 
-Before ITU he was at Işık University, with earlier positions at the Heidelberg
+Before ITU I was at Işık University, with earlier positions at the Heidelberg
 Collaboratory for Image Processing, MedicSight PLC in London, the University of
-Westminster, and TÜBİTAK-BİLTEN. His PhD, on computerised diagnosis of malaria,
+Westminster, and TÜBİTAK-BİLTEN. My PhD, on computerised diagnosis of malaria,
 is from the University of Westminster.
 
 The longer version is on the [CV page](cv.qmd).
@@ -26,7 +24,4 @@ The longer version is on the [CV page](cv.qmd).
 
 ## About this site
 
-Notes and experiments that are worth reporting but not worth a paper. Built with
-[Quarto](https://quarto.org) and published from GitHub Pages; the source for
-every post, including the scripts behind the figures, is in
-[the repository](https://github.com/btekgit/btekgit.github.io).
+I have a research blog in this site which I write about some research questions I work on. 

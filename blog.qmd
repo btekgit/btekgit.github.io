@@ -11,3 +11,9 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+
+
+Notes and experiments that are worth reporting but not worth a paper. Built with
+[Quarto](https://quarto.org) and published from GitHub Pages; the source for
+every post, including the scripts behind the figures, is in
+[the repository](https://github.com/btekgit/btekgit.github.io).
