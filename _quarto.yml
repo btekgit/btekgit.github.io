@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Faik Boray Tek"
+  description: "Notes and experiments on neural networks, medical image analysis, and computer vision."
+  site-url: "https://btekgit.github.io"
+  repo-url: https://github.com/btekgit/btekgit.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: About
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=hoUlZL4AAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/btekgit
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Faik Boray Tek"
+    right:
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=hoUlZL4AAAAJ&hl=en
+      - text: "ORCID"
+        href: https://orcid.org/0000-0002-8649-6013
+      - text: "ITU"
+        href: https://akademi.itu.edu.tr/tekfb/Faik-Boray-Tek
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    fig-cap-location: bottom

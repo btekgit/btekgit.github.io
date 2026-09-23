@@ -1,0 +1,9 @@
+/_site/
+/.quarto/
+/site_libs/
+.DS_Store
+Thumbs.db
+
+# Pre-existing unrelated files in this folder; not part of the site
+/bisiklet_*
+/malariasets_readme

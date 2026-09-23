@@ -1,0 +1,32 @@
+---
+title: "Faik Boray Tek"
+subtitle: "Experiments, mostly on why models break."
+listing:
+  id: recent
+  contents: posts
+  sort: "date desc"
+  type: default
+  max-items: 5
+  fields: [date, title, description, reading-time]
+---
+
+I am an Associate Professor in the Department of Artificial Intelligence and
+Data Engineering at Istanbul Technical University. I work on artificial neural
+networks, (bio)medical image analysis, and computer vision.
+
+This site is where I write up experiments that are worth reporting but not worth
+a paper: controlled measurements, negative results, and the occasional thing
+that turned out to be simpler than it looked. The posts are short by design.
+Each one answers four questions — what is the problem, what is already known,
+what I ran, and what did not work.
+
+Publications are on
+[Google Scholar](https://scholar.google.com/citations?user=hoUlZL4AAAAJ&hl=en)
+and [ORCID](https://orcid.org/0000-0002-8649-6013); my department page is at
+[ITU Akademi](https://akademi.itu.edu.tr/tekfb/Faik-Boray-Tek). More on the
+[about](about.qmd) and [CV](cv.qmd) pages.
+
+## Recent posts
+
+::: {#recent}
+:::
