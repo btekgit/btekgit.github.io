@@ -1,5 +1,5 @@
 ---
-title: "Turn the lights down and your classifier forgets everything"
+title: " Global Intensity Scaling\\ and Normalization in Image Classifiers"
 description: "A CIFAR-10 ResNet18 drops from 94.9% to 51.9% when you multiply every pixel by 0.2. Most of that loss is not in the weights — it is in the BatchNorm statistics."
 date: 2026-09-20
 categories: [normalization, robustness, batchnorm, negative results]
